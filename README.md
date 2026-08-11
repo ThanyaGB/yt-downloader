@@ -40,7 +40,6 @@ A simple Python command-line utility built with `yt-dlp` and `tkinter` that lets
    ```bash
    python main.py
    ```
-   *(Replace `main.py` with your Python file's name).*
 
 2. **Provide a YouTube URL:** Paste the link into the console when prompted.
    ```text
